@@ -1,0 +1,529 @@
+<!doctype html>
+<html>
+
+    <head>
+		
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="http://st2.kul.vn/kulst/game/games/bangbang/favicon.ico" type="image/x-icon"/>
+        <title>Webgame Bang Bang | BangBang Online | Game bắn xe tăng | Trang chủ</title>        <meta name="description" content="BangBang - phiên bản cân bằng là game PC bắn Xe Tăng thế hệ mới, người chơi không phải chờ theo lượt, chủ động di chuyển Tăng, góc bắn không giới hạn, nòng súng quay 360. | Trang chủ" >
+<meta name="keywords" content="BangBang, webgame, tank, xe tang, gunny, ban nhau, funny, hot, lạ, moi, miễn phí, bangbang,doikhang.vui, hap dan, game ban, ban xe tang, game xe tang, ban nhau, game ban nhau" >        <link rel="canonical" href="https://game.kul.vn:443/bangbang/trang-chu.html?_src=ingame" />
+<meta property="fb:app_id" content="231800254049041"/>
+<meta property="og:title" content="Webgame Bang Bang | BangBang Online | Game bắn xe tăng" />
+<meta property="og:site_name" content="" />
+<meta property="og:url" content="https://game.kul.vn:443/bangbang/trang-chu.html?_src=ingame" />
+<meta property="og:description" content="BangBang - phiên bản cân bằng là game PC bắn Xe Tăng thế hệ mới, người chơi không phải chờ theo lượt, chủ động di chuyển Tăng, góc bắn không giới hạn, nòng súng quay 360." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/600x315.jpg" />
+<meta property="og:image:secure_url" content="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/600x315.jpg">   
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />        <link href="http://st2.kul.vn/kulst/game/games/bangbang/v2/css/style.css?v=1.14" rel="stylesheet">
+
+        <script type="text/javascript">
+            var BASE_URL = 'http://game.kul.vn';
+        </script>
+
+        <script src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="https://appstore.kul.vn/kulcore.10.min.js?v=1.14"></script>
+        <script src="http://st2.kul.vn/kulst/game/games/bangbang/js/custom/md5.js?v=1.14" type="text/javascript"></script>
+        <script src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/custom/custom.js?v=1.14" type="text/javascript"></script>
+        <script type="text/javascript" src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/custom/loginKul.js?v=1.14"></script>
+
+                
+        <link rel="canonical" href="https://game.kul.vn:443/bangbang/trang-chu.html?_src=ingame" />
+<meta property="fb:app_id" content="231800254049041"/>
+<meta property="og:title" content="Webgame Bang Bang | BangBang Online | Game bắn xe tăng" />
+<meta property="og:site_name" content="" />
+<meta property="og:url" content="https://game.kul.vn:443/bangbang/trang-chu.html?_src=ingame" />
+<meta property="og:description" content="BangBang - phiên bản cân bằng là game PC bắn Xe Tăng thế hệ mới, người chơi không phải chờ theo lượt, chủ động di chuyển Tăng, góc bắn không giới hạn, nòng súng quay 360." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/600x315.jpg" />
+<meta property="og:image:secure_url" content="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/600x315.jpg">   
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+        <script>
+            $(document).ready(function () {
+                isLogin('bangbang');
+            });
+        </script>
+
+        
+    </head>
+
+    <body>
+
+        <div class="bgover"></div>
+
+        <div id="wrapper">
+                        <div class="">
+                <div class="">
+                    
+                            <div class="container">
+                                <header class="t-gray-scale">
+                                    <div class="NavTop">
+                                        <ul class="List_Menu">
+                                            <li class="active">
+                                                <a href="trang-chu.html" title="Trang Chủ">Trang Chủ</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="tin-tuc_864.html" title="Tin tức">Tin
+                                                    tức</a>
+                                            </li>
+                                            <li class="RemoveSpace ">
+                                                <a href="su-kien_865.html" title="Sự kiện">Sự
+                                                    kiện</a>
+                                            </li>
+                                            <li class="Space"></li>
+                                            <li>
+                                                <a href="http://game.kul.vn/bangbang/thu-vien.html" title="Thư viện">Thư viện</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="gioi-thieu_870.html"
+                                                   title="Giới thiệu">Giới thiệu</a>
+                                                <ul class="Sub_Nav">
+                                                    <li class="active">
+                                                        <a href="thong-tin-tro-choi.18934.html"
+                                                           title="Thông tin trò chơi">Thông tin trò chơi</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="dieu-khoan-su-dung.18917.html"
+                                                           title="Quy tắc sử dụng DV">Quy tắc sử dụng DV</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="http://game.kul.vn/bangbang/thu-vien.html" title="Tính năng đặc sắc">Tính
+                                                            năng đặc sắc</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.facebook.com/CongDongBangBang" target="_blank" title="Hội nhóm">Hội
+                                                    nhóm</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a href="trang-chu.html" title="Trang chủ Bang Bang" class="LogoBB">
+                                        <img src="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/logo.png" alt="Trang chủ Bang Bang">
+                                    </a>
+                                </header>
+                                <div class="MainContent">
+                                    <div class="row">
+                                        <div class="col-xs-3">
+                                            <aside class="Sidebar">
+
+                                                <a class="ChoiNgay" title="Tải game" target="_blank" href="http://game.kul.vn/bangbang/download">Tải game</a>
+
+                                                <div class="Login">
+                                                    <ul class="Tab">
+                                                        <li class="use dangky-btn">
+                                                            <a href="javascript:void(0);" onclick="DangKy()" title="Đăng ký" class="DangKy">
+                                                                Đăng ký</a>
+                                                        </li>
+
+                                                        <li class="use taikhoan-btn" style="display: none">
+                                                            <a href="https://id.kul.vn/tai-khoan.html" title="Tài khoản" class="TaiKhoan">Tài
+                                                                khoản</a>
+                                                        </li>
+
+                                                        <li class="use">
+                                                            <a href="https://id.kul.vn/nap-xu.html" title="Nạp thẻ" target="_blank" class="NapThe">Nạp
+                                                                thẻ</a>
+                                                        </li>
+                                                    </ul>
+
+                                                    <div>
+                                                        <form name="form1" method="post" action="https://id.kul.vn/dang-nhap.html?ref=https://game.kul.vn:443/bangbang/trang-chu.html?_src=ingame" id="login">
+                                                            <fieldset id="login-box">
+                                                                <div class="vaochoi hidden">
+
+                                                                    <div class="BoxInput">
+                                                                        <label for="user"></label>
+                                                                        <input type="text" name="username" id="username" class="BgInput" placeholder="Tên đăng nhập" required>
+                                                                        <label for="pw"></label>
+                                                                        <input type="password" name="password" id="user_password" class="BgInput" placeholder="Mật khẩu" required>
+                                                                    </div>
+
+                                                                    <input type="button" onclick="login()" class="DangNhap">
+
+                                                                    <p class="TextNote">
+                                                                        <a href="https://id.kul.vn/tim-lai-mat-khau.html" title="Quên mật khẩu">*Quên
+                                                                            mật khẩu?</a>
+                                                                    </p>
+                                                                </div>
+
+                                                            </fieldset>
+                                                        </form>
+                                                    </div>
+
+                                                </div>
+
+                                                <a href="http://game.kul.vn/bangbang/thu-vien.html" title="Thư viện" class="ThuVien">
+                                                    Thư viện</a>
+
+                                                <div class="Social">
+                                                    <div id="facebook" class="Social-post">
+                                                        <div class="fb-page" data-href="https://www.facebook.com/CongDongBangBang" data-tabs="message" data-width="233" data-height="200"
+                                                             data-small-header="false" data-adapt-container-width="false" data-hide-cover="false"
+                                                             data-show-facepile="true">
+                                                            <blockquote cite="https://www.facebook.com/CongDongBangBang" class="fb-xfbml-parse-ignore">
+                                                                <a href="https://www.facebook.com/CongDongBangBang">BangBang</a>
+                                                            </blockquote>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <a href="mailto:hotro@kul.vn" class="icons-bt-hotro">hotro@kul.vn</a>
+
+                                                <a href="tel:19006837" class="icons-bt-hotline">19006837</a>
+                                            </aside>
+                                        </div>
+                                        <div class="col-xs-9">
+
+                                            <div class="row">
+    <div class="col-xs-8">
+         <a href="http://game.kul.vn/bangbang200/khai-hoa.html" target="_blank" class="icons-choingay"></a>
+        <div class="BgNews">
+
+            <ul class="Tab">
+                <li class="Active">
+                    <a href="javascript:;" title="Tin tức" class="TinTuc" data-rel="#tintuc">Tin
+                        tức</a>
+                </li>
+                <li>
+                    <a href="javascript:;" title="Sự kiện" class="SuKien" data-rel="#sukien">Sự
+                        kiện</a>
+                </li>
+            </ul>
+            <div class="boxnews">
+                <div id="tintuc" class="fade in Active">
+                    <ul class="List_News">
+                                                                                                                    <li>
+                                    <a href="cuoc-thi-highlight-dang-cap-nhan-qua-sieu-hot.37477.html" class="news_post-images">
+                                        <img src="http://st2.kul.vn/kulst/game/games/bangbang/images/noimage/96x96.png" alt="CUỘC THI: HIGHLIGHT ĐẲNG CẤP - NHẬN QUÀ SIÊU HOT">
+                                    </a>
+                                    <a href="cuoc-thi-highlight-dang-cap-nhan-qua-sieu-hot.37477.html" title="CUỘC THI: HIGHLIGHT ĐẲNG CẤP - NHẬN QUÀ SIÊU HOT" class="news_post-title">
+                                        <span>CUỘC THI: HIGHLIGHT ĐẲNG CẤP - NHẬN QUÀ SIÊU HOT</span><br>
+                                        <time datetime="17/05/21" class="news_post-time">
+                                            17/05/21                                        </time>
+                                    </a>
+                                    <a href="cuoc-thi-highlight-dang-cap-nhan-qua-sieu-hot.37477.html" class="new_post-des" title="CUỘC THI: HIGHLIGHT ĐẲNG CẤP - NHẬN QUÀ SIÊU HOT">
+                                        Sự kiện cực khủng mừng sự trở lại thành công của BangBang!!!                                    </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="1405-khuyen-mai-tank-kaneki-ghoul.37470.html" title="14.05 Khuyến mãi tank Kaneki - Ghoul" class="news_post-title">14.05 Khuyến mãi tank Kaneki - Ghoul                                        <time datetime="14/05/21" class="news_post-time">14/05/21</time>
+                                    </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="ban-hop-tank-kiem-than-va-tank-naruto-bang-bac.37449.html" title="Bán Hộp Tank Kiếm Thần và Tank Naruto bằng Bạc" class="news_post-title">Bán Hộp Tank Kiếm Thần và Tank Naruto bằng Bạc                                        <time datetime="06/05/21" class="news_post-time">06/05/21</time>
+                                    </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="huong-dan-choi-game-tren-trinh-duyet-37abc.37445.html" title="HƯỚNG DẪN CHƠI GAME TRÊN TRÌNH DUYỆT 37ABC" class="news_post-title">HƯỚNG DẪN CHƠI GAME TRÊN TRÌNH DUYỆT 37ABC                                        <time datetime="05/05/21" class="news_post-time">05/05/21</time>
+                                    </a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="cap-nhat-client-moi-bangbang.37442.html" title="CẬP NHẬT CLIENT MỚI BANGBANG" class="news_post-title">CẬP NHẬT CLIENT MỚI BANGBANG                                        <time datetime="05/05/21" class="news_post-time">05/05/21</time>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                    <a href="tin-tuc_864.html" title="Tin tức" class="news_post-viewmore">Xem
+                        thêm</a>
+                </div>
+                <div id="sukien" class="fade hidden">
+                    <ul class="List_News">
+                                            </ul>
+                    <a href="su-kien_865.html" title="Sự kiện" class="news_post-viewmore">Xem
+                        thêm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-4">
+        <div id="banner">
+
+            <div class="carousel-inner" role="listbox">
+                                                        <div>
+                        <a href="http://game.kul.vn/bangbang/cuoc-thi-viet-nen-hoi-uc-nhan-ngan-qua-tang.37440.html?fbclid=IwAR0aA2kLo1QIuKdGL3JRlw9R5oHGMyuo-VZDqljLi5jJRanFSNQtUlOcftU">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210505/bangbang_75dfa16cf5db1aa2578cdaf8cbbf4a12_237x370.jpg" alt="PROMOTION"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="http://game.kul.vn/bangbang/mung-bangbang-ra-mat-x2-gia-tri-nap.37322.html?key=d301504e7da81fbfe6abf4b9fa42c962">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210429/bangbang_c57f79770a1d00d416c58261fa4a2d89_237x370.png" alt="x2"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="http://game.kul.vn/bangbang/mung-ra-mat-khai-mo-may-chu-bangbang.37131.html?key=13eb59e8b3c2613da687f7a1d9c85723">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210429/bangbang_c70809ed03278fb1937db0601a3e82c3_237x370.jpg" alt="Máy chủ BangBang"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="http://game.kul.vn/bangbang/bangbang-phien-ban-can-bang.37131.html?key=13eb59e8b3c2613da687f7a1d9c85723">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210428/bangbang_999ca8ba8816552335c501a524bfbbb5_237x370.jpg" alt="Ra Mắt"/>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+
+    </div>
+</div>
+<div class="BgWall">
+
+            <div class="BoxItem">
+            <div class="carousel-item" role="listbox">
+                                                        <div>
+                        <a href="javascript:void(0);" onclick="getTankInfo(37476)">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210517/bangbang_6344c78441514a1d22511106c6916f0d.png" alt="Gia Cát Lượng"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="javascript:void(0);" onclick="getTankInfo(37475)">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210517/bangbang_8045ece901f7e65b58f9a47d2eb6b877.png" alt="Natsu"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="javascript:void(0);" onclick="getTankInfo(37474)">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210517/bangbang_3490379df72f221820b8847b852954b6.png" alt="Cửu Vĩ Hồ"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="javascript:void(0);" onclick="getTankInfo(37473)">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210517/bangbang_6cf98c2fdc072ea9b729c365e351e8aa.png" alt="Athena"/>
+                        </a>
+                    </div>
+                                                        <div>
+                        <a href="javascript:void(0);" onclick="getTankInfo(37472)">
+                            <img src="http://st2.kul.vn/contentsite/bangbang/20210517/bangbang_036af9b2a281a99edf06e602f51e16d6.png" alt="Apocalyse"/>
+                        </a>
+                    </div>
+                            </div>
+            <div class="Custom">
+                <a href="javascript:;" title="Next" class="BtPre">Next</a>
+                <a href="javascript:;" title="Pre" class="BtNext">Pre</a>
+            </div>
+
+        </div>
+    
+    </div>
+                                        </div>
+                                        <div class="Nav_Bottom">
+                                            <ul class="List_navbottom">
+                                                <li>
+                                                    <a href="dieu-khoan-su-dung.18917.html"
+                                                       title="Điều khoản sử dụng">Điều khoản sử dụng</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://id.kul.vn/cap-nhat-thong-tin.html" title="Bảo mật tài khoản">Bảo
+                                                        mật tài
+                                                        khoản</a>
+                                                </li>
+                                                <li>
+                                                    <a href="javascript:alert('Đây là webgame nên không cần cài đặt');" title="Hướng dẫn cài đặt & gỡ bỏ">Hướng
+                                                        dẫn cài đặt & gỡ bỏ</a>
+                                                </li>
+                                                <li>
+                                                    <a href="thong-tin-thanh-toan.18918.html"
+                                                       title="Thanh toán">Thanh
+                                                        toán</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <footer>
+                                    <a href="javascript:;" title="Công ty online CMN">
+                                        <img src="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/logo-cmn.png?v=1.0" alt="">
+                                    </a>
+                                    <a href="javascript:;" title="Công ty SixCube">
+                                        <img src="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/logo-contact.png" alt="">
+                                    </a>
+                                    <a href="javascript:;" title="">
+                                        <img src="http://st2.kul.vn/kulst/game/games/bangbang/v2/images/logo-rating.png" alt="">
+                                    </a>
+                                    <p>Bản quyền trò chơi công ty Sixcube
+                                        <br>Công ty CMN Online phát hành độc quyền tại Việt Nam
+                                        <br>Địa chỉ: 549 Điện Biên Phủ, Phường 3, Quận 3, TP Hồ Chí Minh
+                                        <br> Hotline: 1900 6837
+                                        <br> Email: <a href="mailto:hotro@cmn.vn">hotro@cmn.vn</a></p>
+                                </footer>
+                            </div>
+                            <div id="top" style="display: block;">
+                                <a href="#tophead" title="Top" class="Top icons-bt-top">Top</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                                    <style>
+                        .over-bg {
+                            width: 100%;
+                            height: 100%;
+                            top: 0;
+                            left: 0;
+                            background: rgb(0, 0, 0);
+                            opacity: 0.7;
+                            position: fixed;
+                            z-index: 999;
+                            display: none;
+                        }
+
+                        .my-popup {
+                            position: fixed;
+                            top: 0;
+                            left: 0;
+                            z-index: 1000;
+                            display: none;
+                        }
+
+                        .my-popup img {
+                            border: solid 1px #ccc;
+                        }
+
+                        .my-popup a.close {
+                            display: inline-block;
+                            position: absolute;
+                            right: 0;
+                            padding: 5px 10px;
+                            background: #fff;
+                            border: solid 1px #ccc;
+                            border-radius: 3px;
+                        }
+                    </style>
+                    <div class="over-bg"></div>
+                    <div class="my-popup">
+                        <a href="javascript:;" class="close" title="Đóng">X</a>
+                        <a href="https://nap.kul.vn/tim-diem-ban-the-kul.html" target="_blank" title="Ra mắt thẻ Kul Game">
+                            <img src="//st1.kul.vn/kulst/game/images/the-kul_381x253.jpg" title="Ra mắt thẻ Kul Game"/>
+                        </a>
+                    </div>
+                    <script>
+                        // jQuery(document).ready(function () {
+                        //     var pos_top = (jQuery(window).height() - jQuery('.my-popup').height()) / 2;
+                        //     var pos_lef = (jQuery(window).width() - jQuery('.my-popup').width()) / 2;
+                        //     jQuery('.my-popup').css({"top": pos_top, "left": pos_lef});
+                        //     jQuery('.over-bg, .my-popup').fadeIn();
+                        // });
+                        // jQuery('.my-popup a.close').click(function () {
+                        //     jQuery('.over-bg, .my-popup').fadeOut();
+                        // });
+                    </script>
+
+                
+
+                <div class="popup-item-bottom" id="popup-tank"></div>
+
+                <div class="fb-customerchat"
+                     page_id="1531171007107753"
+                     minimized="true"
+                     top="50">
+                </div>
+
+                <div id="fb-root"></div>
+
+                <script>
+                    window.fbAsyncInit = function () {
+                        FB.init({
+                            appId: '649234701921169',
+                            autoLogAppEvents: true,
+                            xfbml: true,
+                            version: 'v2.11'
+                        });
+                    };
+                    (function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) {
+                            return;
+                        }
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = "https://connect.facebook.net/en_US/sdk.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+                </script>
+
+
+                <script src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/mod-owl.carousel.js" type="text/javascript"></script>
+                <script src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/jquery.fancybox.js" type="text/javascript"></script>
+                <script src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/jquery.mCustomScrollbar.js" type="text/javascript"></script>
+                <script type="text/javascript" src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/jquery.mousewheel.js"></script>
+
+
+                <script src="http://st2.kul.vn/kulst/game/games/bangbang/v2/js/common.js?v=1.14" type="text/javascript"></script>
+
+                
+                <script src="https://bar.kul.vn/constantkul.js?v=1.14" type="text/javascript"></script>
+<link href="//st1.kul.vn/kulst/bar/css/style.css?v=1.14" rel="stylesheet" />
+<style type="text/css">
+        body{
+        font:12px/20px Tahoma,Arial,Verdana,sans-serif;
+        margin:0;
+        padding:0;
+        border: 0;
+    }
+    ul.ListSocial li a {
+        width: 40px!important;
+        height: 35px!important;
+    }
+    ul.ListSocial li.Profile img {
+        width: 35px!important;
+        height: 35px!important;
+    </style>
+<script src="https://bar.kul.vn/jquery.topbar.js?v=1.14" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $.topbar({
+            url: 'http://game.kul.vn',
+            globalPopup: {
+                used: false
+            },
+            globalPopup2: {
+                used: false
+            },
+            classCollapse: 'bg-repeat',
+            onready: function() {
+                $('.scroll-pane').mCustomScrollbar({
+                    scrollButtons: {
+                        enable: false
+                    },
+                    theme: 'dark-thick'
+                });
+            }
+        });
+    });
+</script>
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121902942-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-121902942-1');
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1286088285198575');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1286088285198575&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    </body>
+
+</html>
